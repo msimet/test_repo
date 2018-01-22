@@ -3,6 +3,7 @@ budget
 caramel
 discovery
 euler
+[an extra word!]
 fringe
 galapagos
 history
