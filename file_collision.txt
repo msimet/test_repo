@@ -11,6 +11,7 @@ jackal
 koala
 llama
 manatee
+goat
 narwhal
 osaka
 paris
