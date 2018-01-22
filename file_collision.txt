@@ -2,15 +2,19 @@ THIS IS A CHANGE!
 aardvark
 budget
 caramel
+cheetah
 discovery
 euler
 [an extra word!]
 fringe
 galapagos
+gamma
 history
 information
+infrared
 jackal
 koala
+lion
 llama
 manatee
 goat
@@ -27,3 +31,4 @@ wait
 X-ray
 yahoo
 zebra
+popcorn
