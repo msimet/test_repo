@@ -1,15 +1,19 @@
 aardvark
 budget
 caramel
+cheetah
 discovery
 euler
 [an extra word!]
 fringe
 galapagos
+gamma
 history
 information
+infrared
 jackal
 koala
+lion
 llama
 manatee
 goat
